@@ -1,0 +1,131 @@
+
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-184206995-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-184206995-1');
+		  gtag('config', 'G-2XVV8G01FS');
+		</script>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="css/styles.css" rel="stylesheet" />
+		<link href="css/mobile.css" rel="stylesheet" />
+		<link href="css/pos.css" rel="stylesheet" />
+
+		<title>武器养成计算器</title>
+
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+
+		<script src="js/jquery.js"></script>
+		<script src="js/data.js"></script>
+		<script src="js/pos.js"></script>
+		<script src="js/weapon_calc.js"></script>
+	</head>
+	
+	<body>
+		<header>
+			<h1 id="weapon_calc_logo">武器养成计算器</h1>
+
+			<button id="nav_burger">Nav</button>
+
+			<nav>
+				<div id="nav_slide_links">
+					<a href="index.html">今日素材表</a>
+					<a href="char_calc.html">角色养成计算器</a>
+					<a href="weapon_calc.html">武器养成计算器</a>
+				</div>
+			</nav>
+		</header>
+		
+		<main>
+			<div id="weapon_calculator_section">
+				<h3 class="subheading">选择武器和等级</h3>
+
+				<div id="weapon_calc_leveling_section" class="clearfix">
+					<div id="weapon_calc_weapon_selector" data-weapon="">
+						<div id="weapon_calc_weapon_selector_inner">
+							<span id="selector_plus">+</span>
+						</div>
+					</div>
+
+					<div id="weapon_selection_popup">
+						<div id="weapon_selection_popup_inner">
+							<div id="weapon_selection_fav_section">
+								<div id="weapon_selection_fav_group">
+									<a id="weapon_selection_expander">已收藏武器 <i class="expanded"></i></a>
+									<div id="weapon_selection_fav_list" class="clearfix show">
+									</div>
+								</div>
+							</div>
+
+							<div id="weapon_selection_form_tabs">
+								<a class="weapon_selection_form_tab selected" data-form="单手剑">单手剑</a>
+								<a class="weapon_selection_form_tab" data-form="法器">法器</a>
+								<a class="weapon_selection_form_tab" data-form="弓">弓</a>
+								<a class="weapon_selection_form_tab" data-form="双手剑">双手剑</a>
+								<a class="weapon_selection_form_tab" data-form="长柄武器">长柄武器</a>
+								<a class="weapon_selection_form_tab" style="visibility: hidden"></a>
+							</div>
+
+							<div id="weapon_selection_form_list" class="clearfix">
+							</div>
+						</div>
+					</div>
+
+					<div class="range_selector" id="weapon_level_selector">
+						<div class="number_selector lower_range" id="weapon_lower_level">
+							<i class="number_selector_triangle"></i>
+							<span class="number_val" data-level="1">1</span>
+							<div class="number_list">
+								<div class="number_list_options">
+								</div>
+							</div>
+						</div>
+
+						<span class="range_selector_connector">至</span>
+
+						<div class="number_selector higher_range" id="weapon_higher_level">
+							<i class="number_selector_triangle"></i>
+							<span class="number_val" data-level="90">90</span>
+							<div class="number_list">
+								<div class="number_list_options">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="weapon_level_calc_buttons">
+				<button id="weapon_level_calc_btn">计算结果</button>
+				<!-- <button id="weapon_level_clear_selection_btn">清空选择</button> -->
+			</div>
+
+			<div id="needed_materials">
+				<div id="needed_materials_inner">
+					<h4>你还需要这些</h4>
+					<div id="needed_materials_section" class="clearfix">
+						<div id="needed_xp"><i></i> 武器经验：<span></span></div>
+						<div id="needed_books" class="clearfix">
+						</div>
+						<div id="needed_mora"><i></i> 摩拉：<span></span></div>
+						<div id="needed_mats">
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+
+		<div id="overlay">
+		</div>
+	</body>
+</html>

@@ -1,0 +1,1866 @@
+#七七 {
+	background-size: 350px 420px;
+	background-position: -0px -0px;
+}
+
+#刻晴 {
+	background-size: 350px 420px;
+	background-position: -70px -0px;
+}
+
+#达达利亚 {
+	background-size: 350px 420px;
+	background-position: -140px -0px;
+}
+
+#可莉 {
+	background-size: 350px 420px;
+	background-position: -210px -0px;
+}
+
+#温迪 {
+	background-size: 350px 420px;
+	background-position: -280px -0px;
+}
+
+#琴 {
+	background-size: 350px 420px;
+	background-position: -0px -70px;
+}
+
+#莫娜 {
+	background-size: 350px 420px;
+	background-position: -70px -70px;
+}
+
+#迪卢克 {
+	background-size: 350px 420px;
+	background-position: -140px -70px;
+}
+
+#钟离 {
+	background-size: 350px 420px;
+	background-position: -210px -70px;
+}
+
+#阿贝多 {
+	background-size: 350px 420px;
+	background-position: -280px -70px;
+}
+
+#凝光 {
+	background-size: 350px 420px;
+	background-position: -0px -140px;
+}
+
+#北斗 {
+	background-size: 350px 420px;
+	background-position: -70px -140px;
+}
+
+#行秋 {
+	background-size: 350px 420px;
+	background-position: -140px -140px;
+}
+
+#重云 {
+	background-size: 350px 420px;
+	background-position: -210px -140px;
+}
+
+#香菱 {
+	background-size: 350px 420px;
+	background-position: -280px -140px;
+}
+
+#丽莎 {
+	background-size: 350px 420px;
+	background-position: -0px -210px;
+}
+
+#凯亚 {
+	background-size: 350px 420px;
+	background-position: -70px -210px;
+}
+
+#安柏 {
+	background-size: 350px 420px;
+	background-position: -140px -210px;
+}
+
+#班尼特 {
+	background-size: 350px 420px;
+	background-position: -210px -210px;
+}
+
+#砂糖 {
+	background-size: 350px 420px;
+	background-position: -280px -210px;
+}
+
+#芭芭拉 {
+	background-size: 350px 420px;
+	background-position: -0px -280px;
+}
+
+#菲谢尔 {
+	background-size: 350px 420px;
+	background-position: -70px -280px;
+}
+
+#诺艾尔 {
+	background-size: 350px 420px;
+	background-position: -140px -280px;
+}
+
+#迪奥娜 {
+	background-size: 350px 420px;
+	background-position: -210px -280px;
+}
+
+#雷泽 {
+	background-size: 350px 420px;
+	background-position: -280px -280px;
+}
+
+#辛焱 {
+	background-size: 350px 420px;
+	background-position: -0px -350px;
+}
+
+#空 {
+	background-size: 350px 420px;
+	background-position: -70px -350px;
+}
+
+#荧 {
+	background-size: 350px 420px;
+	background-position: -140px -350px;
+}
+
+#甘雨 {
+	background-size: 350px 420px;
+	background-position: -210px -350px;
+}
+
+@media only screen and (max-width: 600px) {
+	#七七 {
+		background-size: 250px 300px;
+		background-position: -0px -0px;
+	}
+
+	#刻晴 {
+		background-size: 250px 300px;
+		background-position: -50px -0px;
+	}
+
+	#达达利亚 {
+		background-size: 250px 300px;
+		background-position: -100px -0px;
+	}
+
+	#可莉 {
+		background-size: 250px 300px;
+		background-position: -150px -0px;
+	}
+
+	#温迪 {
+		background-size: 250px 300px;
+		background-position: -200px -0px;
+	}
+
+	#琴 {
+		background-size: 250px 300px;
+		background-position: -0px -50px;
+	}
+
+	#莫娜 {
+		background-size: 250px 300px;
+		background-position: -50px -50px;
+	}
+
+	#迪卢克 {
+		background-size: 250px 300px;
+		background-position: -100px -50px;
+	}
+
+	#钟离 {
+		background-size: 250px 300px;
+		background-position: -150px -50px;
+	}
+
+	#阿贝多 {
+		background-size: 250px 300px;
+		background-position: -200px -50px;
+	}
+
+	#凝光 {
+		background-size: 250px 300px;
+		background-position: -0px -100px;
+	}
+
+	#北斗 {
+		background-size: 250px 300px;
+		background-position: -50px -100px;
+	}
+
+	#行秋 {
+		background-size: 250px 300px;
+		background-position: -100px -100px;
+	}
+
+	#重云 {
+		background-size: 250px 300px;
+		background-position: -150px -100px;
+	}
+
+	#香菱 {
+		background-size: 250px 300px;
+		background-position: -200px -100px;
+	}
+
+	#丽莎 {
+		background-size: 250px 300px;
+		background-position: -0px -150px;
+	}
+
+	#凯亚 {
+		background-size: 250px 300px;
+		background-position: -50px -150px;
+	}
+
+	#安柏 {
+		background-size: 250px 300px;
+		background-position: -100px -150px;
+	}
+
+	#班尼特 {
+		background-size: 250px 300px;
+		background-position: -150px -150px;
+	}
+
+	#砂糖 {
+		background-size: 250px 300px;
+		background-position: -200px -150px;
+	}
+
+	#芭芭拉 {
+		background-size: 250px 300px;
+		background-position: -0px -200px;
+	}
+
+	#菲谢尔 {
+		background-size: 250px 300px;
+		background-position: -50px -200px;
+	}
+
+	#诺艾尔 {
+		background-size: 250px 300px;
+		background-position: -100px -200px;
+	}
+
+	#迪奥娜 {
+		background-size: 250px 300px;
+		background-position: -150px -200px;
+	}
+
+	#雷泽 {
+		background-size: 250px 300px;
+		background-position: -200px -200px;
+	}
+
+	#辛焱 {
+		background-size: 250px 300px;
+		background-position: -0px -250px;
+	}
+
+	#空 {
+		background-size: 250px 300px;
+		background-position: -50px -250px;
+	}
+
+	#荧 {
+		background-size: 250px 300px;
+		background-position: -100px -250px;
+	}
+
+	#甘雨 {
+		background-size: 250px 300px;
+		background-position: -150px -250px;
+	}
+
+}
+#风鹰剑 {
+	background-size: 560px 560px;
+	background-position: -0px -0px;
+}
+
+#天空之刃 {
+	background-size: 560px 560px;
+	background-position: -70px -0px;
+}
+
+#斫峰之刃 {
+	background-size: 560px 560px;
+	background-position: -140px -0px;
+}
+
+#天空之傲 {
+	background-size: 560px 560px;
+	background-position: -210px -0px;
+}
+
+#狼的末路 {
+	background-size: 560px 560px;
+	background-position: -280px -0px;
+}
+
+#天空之翼 {
+	background-size: 560px 560px;
+	background-position: -350px -0px;
+}
+
+#天空之卷 {
+	background-size: 560px 560px;
+	background-position: -420px -0px;
+}
+
+#尘世之锁 {
+	background-size: 560px 560px;
+	background-position: -490px -0px;
+}
+
+#天空之脊 {
+	background-size: 560px 560px;
+	background-position: -0px -70px;
+}
+
+#阿莫斯之弓 {
+	background-size: 560px 560px;
+	background-position: -70px -70px;
+}
+
+#无工之剑 {
+	background-size: 560px 560px;
+	background-position: -140px -70px;
+}
+
+#贯虹之槊 {
+	background-size: 560px 560px;
+	background-position: -210px -70px;
+}
+
+#和璞鸢 {
+	background-size: 560px 560px;
+	background-position: -280px -70px;
+}
+
+#西风剑 {
+	background-size: 560px 560px;
+	background-position: -350px -70px;
+}
+
+#黑岩长剑 {
+	background-size: 560px 560px;
+	background-position: -420px -70px;
+}
+
+#黑剑 {
+	background-size: 560px 560px;
+	background-position: -490px -70px;
+}
+
+#试作斩岩 {
+	background-size: 560px 560px;
+	background-position: -0px -140px;
+}
+
+#暗巷闪光 {
+	background-size: 560px 560px;
+	background-position: -70px -140px;
+}
+
+#宗室长剑 {
+	background-size: 560px 560px;
+	background-position: -140px -140px;
+}
+
+#铁蜂刺 {
+	background-size: 560px 560px;
+	background-position: -210px -140px;
+}
+
+#笛剑 {
+	background-size: 560px 560px;
+	background-position: -280px -140px;
+}
+
+#匣里龙吟 {
+	background-size: 560px 560px;
+	background-position: -350px -140px;
+}
+
+#祭礼剑 {
+	background-size: 560px 560px;
+	background-position: -420px -140px;
+}
+
+#降临之剑 {
+	background-size: 560px 560px;
+	background-position: -490px -140px;
+}
+
+#白影剑 {
+	background-size: 560px 560px;
+	background-position: -0px -210px;
+}
+
+#宗室大剑 {
+	background-size: 560px 560px;
+	background-position: -70px -210px;
+}
+
+#祭礼大剑 {
+	background-size: 560px 560px;
+	background-position: -140px -210px;
+}
+
+#黑岩斩刀 {
+	background-size: 560px 560px;
+	background-position: -210px -210px;
+}
+
+#试作古华 {
+	background-size: 560px 560px;
+	background-position: -280px -210px;
+}
+
+#螭骨剑 {
+	background-size: 560px 560px;
+	background-position: -350px -210px;
+}
+
+#西风大剑 {
+	background-size: 560px 560px;
+	background-position: -420px -210px;
+}
+
+#腐殖之剑 {
+	background-size: 560px 560px;
+	background-position: -490px -210px;
+}
+
+#钟剑 {
+	background-size: 560px 560px;
+	background-position: -0px -280px;
+}
+
+#雨裁 {
+	background-size: 560px 560px;
+	background-position: -70px -280px;
+}
+
+#弓藏 {
+	background-size: 560px 560px;
+	background-position: -140px -280px;
+}
+
+#钢轮弓 {
+	background-size: 560px 560px;
+	background-position: -210px -280px;
+}
+
+#宗室长弓 {
+	background-size: 560px 560px;
+	background-position: -280px -280px;
+}
+
+#黑岩战弓 {
+	background-size: 560px 560px;
+	background-position: -350px -280px;
+}
+
+#试作澹月 {
+	background-size: 560px 560px;
+	background-position: -420px -280px;
+}
+
+#祭礼弓 {
+	background-size: 560px 560px;
+	background-position: -490px -280px;
+}
+
+#绝弦 {
+	background-size: 560px 560px;
+	background-position: -0px -350px;
+}
+
+#苍翠猎弓 {
+	background-size: 560px 560px;
+	background-position: -70px -350px;
+}
+
+#西风猎弓 {
+	background-size: 560px 560px;
+	background-position: -140px -350px;
+}
+
+#万国诸海图谱 {
+	background-size: 560px 560px;
+	background-position: -210px -350px;
+}
+
+#昭心 {
+	background-size: 560px 560px;
+	background-position: -280px -350px;
+}
+
+#宗室秘法录 {
+	background-size: 560px 560px;
+	background-position: -350px -350px;
+}
+
+#流浪乐章 {
+	background-size: 560px 560px;
+	background-position: -420px -350px;
+}
+
+#西风秘典 {
+	background-size: 560px 560px;
+	background-position: -490px -350px;
+}
+
+#匣里日月 {
+	background-size: 560px 560px;
+	background-position: -0px -420px;
+}
+
+#祭礼残章 {
+	background-size: 560px 560px;
+	background-position: -70px -420px;
+}
+
+#黑岩绯玉 {
+	background-size: 560px 560px;
+	background-position: -140px -420px;
+}
+
+#试作金珀 {
+	background-size: 560px 560px;
+	background-position: -210px -420px;
+}
+
+#四风原典 {
+	background-size: 560px 560px;
+	background-position: -280px -420px;
+}
+
+#决斗之枪 {
+	background-size: 560px 560px;
+	background-position: -350px -420px;
+}
+
+#流月针 {
+	background-size: 560px 560px;
+	background-position: -420px -420px;
+}
+
+#匣里灭辰 {
+	background-size: 560px 560px;
+	background-position: -490px -420px;
+}
+
+#试作星镰 {
+	background-size: 560px 560px;
+	background-position: -0px -490px;
+}
+
+#西风长枪 {
+	background-size: 560px 560px;
+	background-position: -70px -490px;
+}
+
+#黑岩刺枪 {
+	background-size: 560px 560px;
+	background-position: -140px -490px;
+}
+
+#宗室猎枪 {
+	background-size: 560px 560px;
+	background-position: -210px -490px;
+}
+
+#龙脊长枪 {
+	background-size: 560px 560px;
+	background-position: -280px -490px;
+}
+
+#雪葬的星银 {
+	background-size: 560px 560px;
+	background-position: -350px -490px;
+}
+
+#忍冬之果 {
+	background-size: 560px 560px;
+	background-position: -420px -490px;
+}
+
+@media only screen and (max-width: 600px) {
+	#风鹰剑 {
+		background-size: 400px 400px;
+		background-position: -0px -0px;
+	}
+
+	#天空之刃 {
+		background-size: 400px 400px;
+		background-position: -50px -0px;
+	}
+
+	#斫峰之刃 {
+		background-size: 400px 400px;
+		background-position: -100px -0px;
+	}
+
+	#天空之傲 {
+		background-size: 400px 400px;
+		background-position: -150px -0px;
+	}
+
+	#狼的末路 {
+		background-size: 400px 400px;
+		background-position: -200px -0px;
+	}
+
+	#天空之翼 {
+		background-size: 400px 400px;
+		background-position: -250px -0px;
+	}
+
+	#天空之卷 {
+		background-size: 400px 400px;
+		background-position: -300px -0px;
+	}
+
+	#尘世之锁 {
+		background-size: 400px 400px;
+		background-position: -350px -0px;
+	}
+
+	#天空之脊 {
+		background-size: 400px 400px;
+		background-position: -0px -50px;
+	}
+
+	#阿莫斯之弓 {
+		background-size: 400px 400px;
+		background-position: -50px -50px;
+	}
+
+	#无工之剑 {
+		background-size: 400px 400px;
+		background-position: -100px -50px;
+	}
+
+	#贯虹之槊 {
+		background-size: 400px 400px;
+		background-position: -150px -50px;
+	}
+
+	#和璞鸢 {
+		background-size: 400px 400px;
+		background-position: -200px -50px;
+	}
+
+	#西风剑 {
+		background-size: 400px 400px;
+		background-position: -250px -50px;
+	}
+
+	#黑岩长剑 {
+		background-size: 400px 400px;
+		background-position: -300px -50px;
+	}
+
+	#黑剑 {
+		background-size: 400px 400px;
+		background-position: -350px -50px;
+	}
+
+	#试作斩岩 {
+		background-size: 400px 400px;
+		background-position: -0px -100px;
+	}
+
+	#暗巷闪光 {
+		background-size: 400px 400px;
+		background-position: -50px -100px;
+	}
+
+	#宗室长剑 {
+		background-size: 400px 400px;
+		background-position: -100px -100px;
+	}
+
+	#铁蜂刺 {
+		background-size: 400px 400px;
+		background-position: -150px -100px;
+	}
+
+	#笛剑 {
+		background-size: 400px 400px;
+		background-position: -200px -100px;
+	}
+
+	#匣里龙吟 {
+		background-size: 400px 400px;
+		background-position: -250px -100px;
+	}
+
+	#祭礼剑 {
+		background-size: 400px 400px;
+		background-position: -300px -100px;
+	}
+
+	#降临之剑 {
+		background-size: 400px 400px;
+		background-position: -350px -100px;
+	}
+
+	#白影剑 {
+		background-size: 400px 400px;
+		background-position: -0px -150px;
+	}
+
+	#宗室大剑 {
+		background-size: 400px 400px;
+		background-position: -50px -150px;
+	}
+
+	#祭礼大剑 {
+		background-size: 400px 400px;
+		background-position: -100px -150px;
+	}
+
+	#黑岩斩刀 {
+		background-size: 400px 400px;
+		background-position: -150px -150px;
+	}
+
+	#试作古华 {
+		background-size: 400px 400px;
+		background-position: -200px -150px;
+	}
+
+	#螭骨剑 {
+		background-size: 400px 400px;
+		background-position: -250px -150px;
+	}
+
+	#西风大剑 {
+		background-size: 400px 400px;
+		background-position: -300px -150px;
+	}
+
+	#腐殖之剑 {
+		background-size: 400px 400px;
+		background-position: -350px -150px;
+	}
+
+	#钟剑 {
+		background-size: 400px 400px;
+		background-position: -0px -200px;
+	}
+
+	#雨裁 {
+		background-size: 400px 400px;
+		background-position: -50px -200px;
+	}
+
+	#弓藏 {
+		background-size: 400px 400px;
+		background-position: -100px -200px;
+	}
+
+	#钢轮弓 {
+		background-size: 400px 400px;
+		background-position: -150px -200px;
+	}
+
+	#宗室长弓 {
+		background-size: 400px 400px;
+		background-position: -200px -200px;
+	}
+
+	#黑岩战弓 {
+		background-size: 400px 400px;
+		background-position: -250px -200px;
+	}
+
+	#试作澹月 {
+		background-size: 400px 400px;
+		background-position: -300px -200px;
+	}
+
+	#祭礼弓 {
+		background-size: 400px 400px;
+		background-position: -350px -200px;
+	}
+
+	#绝弦 {
+		background-size: 400px 400px;
+		background-position: -0px -250px;
+	}
+
+	#苍翠猎弓 {
+		background-size: 400px 400px;
+		background-position: -50px -250px;
+	}
+
+	#西风猎弓 {
+		background-size: 400px 400px;
+		background-position: -100px -250px;
+	}
+
+	#万国诸海图谱 {
+		background-size: 400px 400px;
+		background-position: -150px -250px;
+	}
+
+	#昭心 {
+		background-size: 400px 400px;
+		background-position: -200px -250px;
+	}
+
+	#宗室秘法录 {
+		background-size: 400px 400px;
+		background-position: -250px -250px;
+	}
+
+	#流浪乐章 {
+		background-size: 400px 400px;
+		background-position: -300px -250px;
+	}
+
+	#西风秘典 {
+		background-size: 400px 400px;
+		background-position: -350px -250px;
+	}
+
+	#匣里日月 {
+		background-size: 400px 400px;
+		background-position: -0px -300px;
+	}
+
+	#祭礼残章 {
+		background-size: 400px 400px;
+		background-position: -50px -300px;
+	}
+
+	#黑岩绯玉 {
+		background-size: 400px 400px;
+		background-position: -100px -300px;
+	}
+
+	#试作金珀 {
+		background-size: 400px 400px;
+		background-position: -150px -300px;
+	}
+
+	#四风原典 {
+		background-size: 400px 400px;
+		background-position: -200px -300px;
+	}
+
+	#决斗之枪 {
+		background-size: 400px 400px;
+		background-position: -250px -300px;
+	}
+
+	#流月针 {
+		background-size: 400px 400px;
+		background-position: -300px -300px;
+	}
+
+	#匣里灭辰 {
+		background-size: 400px 400px;
+		background-position: -350px -300px;
+	}
+
+	#试作星镰 {
+		background-size: 400px 400px;
+		background-position: -0px -350px;
+	}
+
+	#西风长枪 {
+		background-size: 400px 400px;
+		background-position: -50px -350px;
+	}
+
+	#黑岩刺枪 {
+		background-size: 400px 400px;
+		background-position: -100px -350px;
+	}
+
+	#宗室猎枪 {
+		background-size: 400px 400px;
+		background-position: -150px -350px;
+	}
+
+	#龙脊长枪 {
+		background-size: 400px 400px;
+		background-position: -200px -350px;
+	}
+
+	#雪葬的星银 {
+		background-size: 400px 400px;
+		background-position: -250px -350px;
+	}
+
+	#忍冬之果 {
+		background-size: 400px 400px;
+		background-position: -300px -350px;
+	}
+
+}
+#繁荣1 {
+	background-size: 280px 240px;
+	background-position: -0px -0px;
+}
+
+#繁荣2 {
+	background-size: 280px 240px;
+	background-position: -40px -0px;
+}
+
+#繁荣3 {
+	background-size: 280px 240px;
+	background-position: -80px -0px;
+}
+
+#自由1 {
+	background-size: 280px 240px;
+	background-position: -120px -0px;
+}
+
+#自由2 {
+	background-size: 280px 240px;
+	background-position: -160px -0px;
+}
+
+#自由3 {
+	background-size: 280px 240px;
+	background-position: -200px -0px;
+}
+
+#勤劳1 {
+	background-size: 280px 240px;
+	background-position: -240px -0px;
+}
+
+#勤劳2 {
+	background-size: 280px 240px;
+	background-position: -0px -40px;
+}
+
+#勤劳3 {
+	background-size: 280px 240px;
+	background-position: -40px -40px;
+}
+
+#抗争1 {
+	background-size: 280px 240px;
+	background-position: -80px -40px;
+}
+
+#抗争2 {
+	background-size: 280px 240px;
+	background-position: -120px -40px;
+}
+
+#抗争3 {
+	background-size: 280px 240px;
+	background-position: -160px -40px;
+}
+
+#黄金1 {
+	background-size: 280px 240px;
+	background-position: -200px -40px;
+}
+
+#黄金2 {
+	background-size: 280px 240px;
+	background-position: -240px -40px;
+}
+
+#黄金3 {
+	background-size: 280px 240px;
+	background-position: -0px -80px;
+}
+
+#诗文1 {
+	background-size: 280px 240px;
+	background-position: -40px -80px;
+}
+
+#诗文2 {
+	background-size: 280px 240px;
+	background-position: -80px -80px;
+}
+
+#诗文3 {
+	background-size: 280px 240px;
+	background-position: -120px -80px;
+}
+
+#高塔孤王1 {
+	background-size: 280px 240px;
+	background-position: -160px -80px;
+}
+
+#高塔孤王2 {
+	background-size: 280px 240px;
+	background-position: -200px -80px;
+}
+
+#高塔孤王3 {
+	background-size: 280px 240px;
+	background-position: -240px -80px;
+}
+
+#高塔孤王4 {
+	background-size: 280px 240px;
+	background-position: -0px -120px;
+}
+
+#孤云寒林1 {
+	background-size: 280px 240px;
+	background-position: -40px -120px;
+}
+
+#孤云寒林2 {
+	background-size: 280px 240px;
+	background-position: -80px -120px;
+}
+
+#孤云寒林3 {
+	background-size: 280px 240px;
+	background-position: -120px -120px;
+}
+
+#孤云寒林4 {
+	background-size: 280px 240px;
+	background-position: -160px -120px;
+}
+
+#凛风奔狼1 {
+	background-size: 280px 240px;
+	background-position: -200px -120px;
+}
+
+#凛风奔狼2 {
+	background-size: 280px 240px;
+	background-position: -240px -120px;
+}
+
+#凛风奔狼3 {
+	background-size: 280px 240px;
+	background-position: -0px -160px;
+}
+
+#凛风奔狼4 {
+	background-size: 280px 240px;
+	background-position: -40px -160px;
+}
+
+#雾海云间1 {
+	background-size: 280px 240px;
+	background-position: -80px -160px;
+}
+
+#雾海云间2 {
+	background-size: 280px 240px;
+	background-position: -120px -160px;
+}
+
+#雾海云间3 {
+	background-size: 280px 240px;
+	background-position: -160px -160px;
+}
+
+#雾海云间4 {
+	background-size: 280px 240px;
+	background-position: -200px -160px;
+}
+
+#狮牙斗士1 {
+	background-size: 280px 240px;
+	background-position: -240px -160px;
+}
+
+#狮牙斗士2 {
+	background-size: 280px 240px;
+	background-position: -0px -200px;
+}
+
+#狮牙斗士3 {
+	background-size: 280px 240px;
+	background-position: -40px -200px;
+}
+
+#狮牙斗士4 {
+	background-size: 280px 240px;
+	background-position: -80px -200px;
+}
+
+#漆黑陨铁1 {
+	background-size: 280px 240px;
+	background-position: -120px -200px;
+}
+
+#漆黑陨铁2 {
+	background-size: 280px 240px;
+	background-position: -160px -200px;
+}
+
+#漆黑陨铁3 {
+	background-size: 280px 240px;
+	background-position: -200px -200px;
+}
+
+#漆黑陨铁4 {
+	background-size: 280px 240px;
+	background-position: -240px -200px;
+}
+
+@media only screen and (max-width: 600px) {
+	#繁荣1 {
+		background-size: 210px 180px;
+		background-position: -0px -0px;
+	}
+
+	#繁荣2 {
+		background-size: 210px 180px;
+		background-position: -30px -0px;
+	}
+
+	#繁荣3 {
+		background-size: 210px 180px;
+		background-position: -60px -0px;
+	}
+
+	#自由1 {
+		background-size: 210px 180px;
+		background-position: -90px -0px;
+	}
+
+	#自由2 {
+		background-size: 210px 180px;
+		background-position: -120px -0px;
+	}
+
+	#自由3 {
+		background-size: 210px 180px;
+		background-position: -150px -0px;
+	}
+
+	#勤劳1 {
+		background-size: 210px 180px;
+		background-position: -180px -0px;
+	}
+
+	#勤劳2 {
+		background-size: 210px 180px;
+		background-position: -0px -30px;
+	}
+
+	#勤劳3 {
+		background-size: 210px 180px;
+		background-position: -30px -30px;
+	}
+
+	#抗争1 {
+		background-size: 210px 180px;
+		background-position: -60px -30px;
+	}
+
+	#抗争2 {
+		background-size: 210px 180px;
+		background-position: -90px -30px;
+	}
+
+	#抗争3 {
+		background-size: 210px 180px;
+		background-position: -120px -30px;
+	}
+
+	#黄金1 {
+		background-size: 210px 180px;
+		background-position: -150px -30px;
+	}
+
+	#黄金2 {
+		background-size: 210px 180px;
+		background-position: -180px -30px;
+	}
+
+	#黄金3 {
+		background-size: 210px 180px;
+		background-position: -0px -60px;
+	}
+
+	#诗文1 {
+		background-size: 210px 180px;
+		background-position: -30px -60px;
+	}
+
+	#诗文2 {
+		background-size: 210px 180px;
+		background-position: -60px -60px;
+	}
+
+	#诗文3 {
+		background-size: 210px 180px;
+		background-position: -90px -60px;
+	}
+
+	#高塔孤王1 {
+		background-size: 210px 180px;
+		background-position: -120px -60px;
+	}
+
+	#高塔孤王2 {
+		background-size: 210px 180px;
+		background-position: -150px -60px;
+	}
+
+	#高塔孤王3 {
+		background-size: 210px 180px;
+		background-position: -180px -60px;
+	}
+
+	#高塔孤王4 {
+		background-size: 210px 180px;
+		background-position: -0px -90px;
+	}
+
+	#孤云寒林1 {
+		background-size: 210px 180px;
+		background-position: -30px -90px;
+	}
+
+	#孤云寒林2 {
+		background-size: 210px 180px;
+		background-position: -60px -90px;
+	}
+
+	#孤云寒林3 {
+		background-size: 210px 180px;
+		background-position: -90px -90px;
+	}
+
+	#孤云寒林4 {
+		background-size: 210px 180px;
+		background-position: -120px -90px;
+	}
+
+	#凛风奔狼1 {
+		background-size: 210px 180px;
+		background-position: -150px -90px;
+	}
+
+	#凛风奔狼2 {
+		background-size: 210px 180px;
+		background-position: -180px -90px;
+	}
+
+	#凛风奔狼3 {
+		background-size: 210px 180px;
+		background-position: -0px -120px;
+	}
+
+	#凛风奔狼4 {
+		background-size: 210px 180px;
+		background-position: -30px -120px;
+	}
+
+	#雾海云间1 {
+		background-size: 210px 180px;
+		background-position: -60px -120px;
+	}
+
+	#雾海云间2 {
+		background-size: 210px 180px;
+		background-position: -90px -120px;
+	}
+
+	#雾海云间3 {
+		background-size: 210px 180px;
+		background-position: -120px -120px;
+	}
+
+	#雾海云间4 {
+		background-size: 210px 180px;
+		background-position: -150px -120px;
+	}
+
+	#狮牙斗士1 {
+		background-size: 210px 180px;
+		background-position: -180px -120px;
+	}
+
+	#狮牙斗士2 {
+		background-size: 210px 180px;
+		background-position: -0px -150px;
+	}
+
+	#狮牙斗士3 {
+		background-size: 210px 180px;
+		background-position: -30px -150px;
+	}
+
+	#狮牙斗士4 {
+		background-size: 210px 180px;
+		background-position: -60px -150px;
+	}
+
+	#漆黑陨铁1 {
+		background-size: 210px 180px;
+		background-position: -90px -150px;
+	}
+
+	#漆黑陨铁2 {
+		background-size: 210px 180px;
+		background-position: -120px -150px;
+	}
+
+	#漆黑陨铁3 {
+		background-size: 210px 180px;
+		background-position: -150px -150px;
+	}
+
+	#漆黑陨铁4 {
+		background-size: 210px 180px;
+		background-position: -180px -150px;
+	}
+
+}
+#地脉1 {
+	background-size: 350px 350px;
+	background-position: -0px -0px;
+}
+
+#地脉2 {
+	background-size: 350px 350px;
+	background-position: -50px -0px;
+}
+
+#地脉3 {
+	background-size: 350px 350px;
+	background-position: -100px -0px;
+}
+
+#徽记1 {
+	background-size: 350px 350px;
+	background-position: -150px -0px;
+}
+
+#徽记2 {
+	background-size: 350px 350px;
+	background-position: -200px -0px;
+}
+
+#徽记3 {
+	background-size: 350px 350px;
+	background-position: -250px -0px;
+}
+
+#混沌1 {
+	background-size: 350px 350px;
+	background-position: -300px -0px;
+}
+
+#混沌2 {
+	background-size: 350px 350px;
+	background-position: -0px -50px;
+}
+
+#混沌3 {
+	background-size: 350px 350px;
+	background-position: -50px -50px;
+}
+
+#祭刀1 {
+	background-size: 350px 350px;
+	background-position: -100px -50px;
+}
+
+#祭刀2 {
+	background-size: 350px 350px;
+	background-position: -150px -50px;
+}
+
+#祭刀3 {
+	background-size: 350px 350px;
+	background-position: -200px -50px;
+}
+
+#箭簇1 {
+	background-size: 350px 350px;
+	background-position: -250px -50px;
+}
+
+#箭簇2 {
+	background-size: 350px 350px;
+	background-position: -300px -50px;
+}
+
+#箭簇3 {
+	background-size: 350px 350px;
+	background-position: -0px -100px;
+}
+
+#绘卷1 {
+	background-size: 350px 350px;
+	background-position: -50px -100px;
+}
+
+#绘卷2 {
+	background-size: 350px 350px;
+	background-position: -100px -100px;
+}
+
+#绘卷3 {
+	background-size: 350px 350px;
+	background-position: -150px -100px;
+}
+
+#花蜜1 {
+	background-size: 350px 350px;
+	background-position: -200px -100px;
+}
+
+#花蜜2 {
+	background-size: 350px 350px;
+	background-position: -250px -100px;
+}
+
+#花蜜3 {
+	background-size: 350px 350px;
+	background-position: -300px -100px;
+}
+
+#雾虚1 {
+	background-size: 350px 350px;
+	background-position: -0px -150px;
+}
+
+#雾虚2 {
+	background-size: 350px 350px;
+	background-position: -50px -150px;
+}
+
+#雾虚3 {
+	background-size: 350px 350px;
+	background-position: -100px -150px;
+}
+
+#面具1 {
+	background-size: 350px 350px;
+	background-position: -150px -150px;
+}
+
+#面具2 {
+	background-size: 350px 350px;
+	background-position: -200px -150px;
+}
+
+#面具3 {
+	background-size: 350px 350px;
+	background-position: -250px -150px;
+}
+
+#骨片1 {
+	background-size: 350px 350px;
+	background-position: -300px -150px;
+}
+
+#骨片2 {
+	background-size: 350px 350px;
+	background-position: -0px -200px;
+}
+
+#骨片3 {
+	background-size: 350px 350px;
+	background-position: -50px -200px;
+}
+
+#鸦印1 {
+	background-size: 350px 350px;
+	background-position: -100px -200px;
+}
+
+#鸦印2 {
+	background-size: 350px 350px;
+	background-position: -150px -200px;
+}
+
+#鸦印3 {
+	background-size: 350px 350px;
+	background-position: -200px -200px;
+}
+
+#号角1 {
+	background-size: 350px 350px;
+	background-position: -250px -200px;
+}
+
+#号角2 {
+	background-size: 350px 350px;
+	background-position: -300px -200px;
+}
+
+#号角3 {
+	background-size: 350px 350px;
+	background-position: -0px -250px;
+}
+
+#史莱姆1 {
+	background-size: 350px 350px;
+	background-position: -50px -250px;
+}
+
+#史莱姆2 {
+	background-size: 350px 350px;
+	background-position: -100px -250px;
+}
+
+#史莱姆3 {
+	background-size: 350px 350px;
+	background-position: -150px -250px;
+}
+
+#东风之爪 {
+	background-size: 350px 350px;
+	background-position: -200px -250px;
+}
+
+#东风之翎 {
+	background-size: 350px 350px;
+	background-position: -250px -250px;
+}
+
+#北风之尾 {
+	background-size: 350px 350px;
+	background-position: -300px -250px;
+}
+
+#北风之环 {
+	background-size: 350px 350px;
+	background-position: -0px -300px;
+}
+
+#吞天之鲸·只角 {
+	background-size: 350px 350px;
+	background-position: -50px -300px;
+}
+
+#武炼之魂·孤影 {
+	background-size: 350px 350px;
+	background-position: -100px -300px;
+}
+
+#魔王之刃·残片 {
+	background-size: 350px 350px;
+	background-position: -150px -300px;
+}
+
+#东风的吐息 {
+	background-size: 350px 350px;
+	background-position: -200px -300px;
+}
+
+#北风的魂匣 {
+	background-size: 350px 350px;
+	background-position: -250px -300px;
+}
+
+#哀叙冰玉1 {
+	background-size: 300px 250px;
+	background-position: -0px -0px;
+}
+
+#坚牢黄玉1 {
+	background-size: 300px 250px;
+	background-position: -50px -0px;
+}
+
+#最胜紫晶1 {
+	background-size: 300px 250px;
+	background-position: -100px -0px;
+}
+
+#涤净青金1 {
+	background-size: 300px 250px;
+	background-position: -150px -0px;
+}
+
+#燃愿玛瑙1 {
+	background-size: 300px 250px;
+	background-position: -200px -0px;
+}
+
+#璀璨原钻1 {
+	background-size: 300px 250px;
+	background-position: -250px -0px;
+}
+
+#自在松石1 {
+	background-size: 300px 250px;
+	background-position: -0px -50px;
+}
+
+#哀叙冰玉2 {
+	background-size: 300px 250px;
+	background-position: -50px -50px;
+}
+
+#坚牢黄玉2 {
+	background-size: 300px 250px;
+	background-position: -100px -50px;
+}
+
+#最胜紫晶2 {
+	background-size: 300px 250px;
+	background-position: -150px -50px;
+}
+
+#涤净青金2 {
+	background-size: 300px 250px;
+	background-position: -200px -50px;
+}
+
+#燃愿玛瑙2 {
+	background-size: 300px 250px;
+	background-position: -250px -50px;
+}
+
+#璀璨原钻2 {
+	background-size: 300px 250px;
+	background-position: -0px -100px;
+}
+
+#自在松石2 {
+	background-size: 300px 250px;
+	background-position: -50px -100px;
+}
+
+#哀叙冰玉3 {
+	background-size: 300px 250px;
+	background-position: -100px -100px;
+}
+
+#坚牢黄玉3 {
+	background-size: 300px 250px;
+	background-position: -150px -100px;
+}
+
+#最胜紫晶3 {
+	background-size: 300px 250px;
+	background-position: -200px -100px;
+}
+
+#涤净青金3 {
+	background-size: 300px 250px;
+	background-position: -250px -100px;
+}
+
+#燃愿玛瑙3 {
+	background-size: 300px 250px;
+	background-position: -0px -150px;
+}
+
+#璀璨原钻3 {
+	background-size: 300px 250px;
+	background-position: -50px -150px;
+}
+
+#自在松石3 {
+	background-size: 300px 250px;
+	background-position: -100px -150px;
+}
+
+#哀叙冰玉4 {
+	background-size: 300px 250px;
+	background-position: -150px -150px;
+}
+
+#坚牢黄玉4 {
+	background-size: 300px 250px;
+	background-position: -200px -150px;
+}
+
+#最胜紫晶4 {
+	background-size: 300px 250px;
+	background-position: -250px -150px;
+}
+
+#涤净青金4 {
+	background-size: 300px 250px;
+	background-position: -0px -200px;
+}
+
+#燃愿玛瑙4 {
+	background-size: 300px 250px;
+	background-position: -50px -200px;
+}
+
+#璀璨原钻4 {
+	background-size: 300px 250px;
+	background-position: -100px -200px;
+}
+
+#自在松石4 {
+	background-size: 300px 250px;
+	background-position: -150px -200px;
+}
+
+#星螺 {
+	background-size: 200px 200px;
+	background-position: -0px -0px;
+}
+
+#清心 {
+	background-size: 200px 200px;
+	background-position: -50px -0px;
+}
+
+#石珀 {
+	background-size: 200px 200px;
+	background-position: -100px -0px;
+}
+
+#钩钩果 {
+	background-size: 200px 200px;
+	background-position: -150px -0px;
+}
+
+#嘟嘟莲 {
+	background-size: 200px 200px;
+	background-position: -0px -50px;
+}
+
+#夜泊石 {
+	background-size: 200px 200px;
+	background-position: -50px -50px;
+}
+
+#小灯草 {
+	background-size: 200px 200px;
+	background-position: -100px -50px;
+}
+
+#琉璃袋 {
+	background-size: 200px 200px;
+	background-position: -150px -50px;
+}
+
+#落落莓 {
+	background-size: 200px 200px;
+	background-position: -0px -100px;
+}
+
+#霓裳花 {
+	background-size: 200px 200px;
+	background-position: -50px -100px;
+}
+
+#风车菊 {
+	background-size: 200px 200px;
+	background-position: -100px -100px;
+}
+
+#慕风蘑菇 {
+	background-size: 200px 200px;
+	background-position: -150px -100px;
+}
+
+#琉璃百合 {
+	background-size: 200px 200px;
+	background-position: -0px -150px;
+}
+
+#绝云椒椒 {
+	background-size: 200px 200px;
+	background-position: -50px -150px;
+}
+
+#蒲公英籽 {
+	background-size: 200px 200px;
+	background-position: -100px -150px;
+}
+
+#塞西莉亚花 {
+	background-size: 200px 200px;
+	background-position: -150px -150px;
+}
+
+#水晶1 {
+	background-size: 200px 150px;
+	background-position: -0px -0px;
+}
+
+#水晶2 {
+	background-size: 200px 150px;
+	background-position: -50px -0px;
+}
+
+#水晶3 {
+	background-size: 200px 150px;
+	background-position: -100px -0px;
+}
+
+#经验本1 {
+	background-size: 200px 150px;
+	background-position: -150px -0px;
+}
+
+#经验本2 {
+	background-size: 200px 150px;
+	background-position: -0px -50px;
+}
+
+#经验本3 {
+	background-size: 200px 150px;
+	background-position: -50px -50px;
+}
+
+#净水之心 {
+	background-size: 200px 150px;
+	background-position: -100px -50px;
+}
+
+#常燃火种 {
+	background-size: 200px 150px;
+	background-position: -150px -50px;
+}
+
+#极寒之核 {
+	background-size: 200px 150px;
+	background-position: -0px -100px;
+}
+
+#玄岩之塔 {
+	background-size: 200px 150px;
+	background-position: -50px -100px;
+}
+
+#雷光棱镜 {
+	background-size: 200px 150px;
+	background-position: -100px -100px;
+}
+
+#飓风之种 {
+	background-size: 200px 150px;
+	background-position: -150px -100px;
+}
+

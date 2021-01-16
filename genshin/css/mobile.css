@@ -1,0 +1,352 @@
+@media only screen and (max-width: 600px) {
+  header {
+  	height: 50px;
+  }
+
+  h1 {
+  	margin: 5px 0 0 5px;
+  }
+
+  #nav_burger {
+    width: 60px;
+    height: 50px;
+    background: url('../images/icon_burger.png');
+    background-size: 36px 36px;
+    background-repeat: no-repeat;
+    background-position: 12px 8px;
+  }
+
+  nav {
+    width: 150px;
+    top: 50px;
+  }
+
+  #nav_slide_links {
+    font-size: 0.9em;
+  }
+
+  #nav_slide_note {
+    font-size: 0.7em;
+  }
+
+  #nav_slide_footer {
+    width: 150px;
+    font-size: 0.9em;
+  }
+
+  h2 {
+  	padding: 6px 0 6px 10px;
+  }
+
+  main {
+	  padding-top: 50px;
+  }
+
+  #trait_section, #weapon_section {
+    background: black url('../images/bg.jpg');
+    background-size: 960px 540px;
+  }
+
+  #trait_section {
+    padding-top: 40px;
+  }
+
+  #nav_dropdown {
+  	height: 40px;
+  }
+
+  #nav_triangle {
+    top: 15px;
+  }
+
+  #nav_inner {
+    right: -2px;
+    border: 2px solid #7A7A7A;
+    border-width: 0 2px 2px 2px;
+  }
+
+  #nav_day {
+    top: 8px;
+  }
+
+  .material_section {
+    margin: 8px 0;
+  }
+
+  .region_material {
+    width: 200px;
+    margin: 0 5px 0 0;
+    text-align: right;
+  }
+
+  .region {
+    width: 80px;
+    margin: 3px 8px 3px;
+    padding: 3px 0;
+  }
+
+  .region_material span {
+	  display: inline-block;
+	  position: relative;
+	  top: -10px;
+  }
+
+  .material {
+	  width: 30px;
+	  height: 30px;
+	  border: 1px solid white;
+  }
+
+  .iconset {
+  	padding: 0 5px;
+  	margin-bottom: 0px;
+  }
+
+  .icon {
+  	margin-right: 4px;
+	  width: 56px;
+  }
+
+  .icon .optimized_icon {
+	  width: 50px;
+	  height: 50px;
+	  background-size: 250px 250px;
+  }
+
+  .icon_inner {
+  	width: 50px;
+  	height: 50px;
+  	margin: 3px;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+
+  .icon img {
+	  width: 50px;
+  }
+
+  .icon span {
+  	font-size: 0.8em;
+    height: 18px;
+    padding-top: 1px;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .icon span.small {
+    position: relative;
+    top: 2px;
+    font-size: 0.6em;
+  }
+
+  .icon_inner.orange {
+	  background: url('../images/bg_orange.png');
+	  background-size: 50px 50px;
+  }
+  
+  .icon_inner.purple {
+  	background: url('../images/bg_purple.png');
+  	background-size: 50px 50px;
+  }
+  
+  .icon_inner.blue {
+  	background: url('../images/bg_blue.png');
+  	background-size: 50px 50px;
+  }
+
+  .icon_highlight {
+    width: 24px;
+    height: 24px;
+    background-size: 24px 24px;
+  }
+
+  #character_calculator_section, #weapon_calculator_section {
+    margin: 15px 20px;
+  }
+
+  .subheading {
+    margin: 0 0 10px;
+  }
+
+  #character_selection_popup, #weapon_selection_popup {
+    width: 335px;
+  }
+
+  #character_selection_popup_inner, #weapon_selection_popup_inner {
+    width: 327px;
+  }
+
+  #char_selection_fav_list, #char_selection_element_list, #weapon_selection_fav_list, #weapon_selection_form_list {
+    margin-right: 0;
+    padding-left: 5px;
+  }
+
+  #char_selection_fav_list .icon, #char_selection_element_list .icon, #weapon_selection_fav_list .icon, #weapon_selection_form_list .icon {
+    width: 56px;
+    margin-left: 5px;
+  }
+
+  #char_selection_fav_list .icon span, #char_selection_element_list .icon span, #weapon_selection_fav_list .icon span, #weapon_selection_form_list .icon span {
+    text-align: center;
+  }
+
+  #char_level_selector, #weapon_level_selector {
+    width: 240px;
+    height: 32px;
+    top: 23px;
+    left: 15px;
+  }
+
+  .range_selector_connector {
+    top: 6px;
+    left: 112px;
+  }
+
+  #char_level_calc_btn, #weapon_level_calc_btn {
+    margin: 0 auto;
+  }
+
+  #needed_materials_inner {
+    padding-bottom: 5px;
+  }
+
+  #needed_materials_inner h4 {
+    font-size: 1em;
+    margin: 5px 5px 0 5px;
+    padding: 0 0 5px 5px;
+    color: #7E4C3B;
+    border-bottom: 1px solid #CDC0B9;
+  }
+
+  #needed_xp {
+    margin: 10px 0 0 10px;
+    font-size: 1em;
+  }
+
+  #needed_xp i {
+    top: 5px;
+    width: 20px;
+    height: 20px;
+    background-size: 20px 20px;
+  }
+
+  #needed_mora {
+    margin: 10px 0 0 10px;
+    font-size: 1em;
+  }
+
+  #needed_mora i {
+    top: 5px;
+    width: 20px;
+    height: 20px;
+    background-size: 20px 20px;
+  }
+
+  #needed_books {
+    margin: 10px 5px 10px 45px;
+  }
+
+  .needed_book {
+    width: 90px;
+  }
+
+  .needed_book span {
+    top: 10px;
+    font-size: 1em;
+  }
+
+  #needed_mats {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 5px 10px 0px;
+    font-size: 0.9em;
+  }
+
+  .needed_res {
+    width: 150px;
+  }
+
+  .needed_res span {
+    top: 10px;
+    font-size: 1em;
+  }
+
+  .mat_icon {
+    width: 40px;
+    height: 40px;
+  }
+
+  .mat_icon_inner {
+    height: 40px;
+  }
+
+  .mat_icon.bg_orange {
+    background: url('../images/bg_orange.png');
+    background-size: 40px 40px;
+    border-radius: 3px;
+  }
+
+  .mat_icon.bg_purple {
+    background: url('../images/bg_purple.png');
+    background-size: 40px 40px;
+    border-radius: 3px;
+  }
+
+  .mat_icon.bg_blue {
+    background: url('../images/bg_blue.png');
+    background-size: 40px 40px;
+    border-radius: 3px;
+  }
+
+  .mat_icon.bg_green {
+    background: url('../images/bg_green.png');
+    background-size: 40px 40px;
+    border-radius: 3px;
+  }
+
+  .mat_icon.bg_grey {
+    background: url('../images/bg_grey.png');
+    background-size: 40px 40px;
+    border-radius: 3px;
+  }
+
+  .id_card_enterable_info {
+    margin-right: 0;
+  }
+
+  #id_card_frame_section {
+    margin-right: 30px;
+  }
+
+  #id_card_basic_info_section .data_info_enterable {
+    width: 180px;
+  }
+
+  #id_card_game_info_section .data_info_enterable, #id_card_game_info_section textarea {
+    width: 330px;
+  }
+
+  #id_card_game_info_section {
+    margin-left: 0px;
+  }
+
+  #create_button button {
+    margin: 0 auto;
+  }
+
+  #id_card_player_info, #id_card_character_info {
+    background: black url('../images/bg.jpg');
+  }
+
+  .lds-ring {
+    top: 80px;
+    width: 40px;
+    height: 40px;
+  }
+
+  .lds-ring div {
+    width: 32px;
+    height: 32px;
+    margin: 4px;
+  }

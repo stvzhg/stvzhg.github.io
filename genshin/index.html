@@ -1,1 +1,97 @@
-Genshin impact
+
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-184206995-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-184206995-1');
+		  gtag('config', 'G-2XVV8G01FS');
+		</script>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="css/styles.css" rel="stylesheet" />
+		<link href="css/mobile.css" rel="stylesheet" />
+		<link href="css/pos.css" rel="stylesheet" />
+
+		<title>今日素材表</title>
+
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+
+		<script src="js/jquery.js"></script>
+		<script src="js/data.js"></script>
+		<script src="js/main.js"></script>
+	</head>
+	
+	<body>
+		<header>
+			<h1 id="daily_logo"> 角色养成计算器</h1>
+
+			<button id="nav_burger">Nav</button>
+
+			<nav>
+				<div id="nav_slide_links">
+					<a href="index.html">今日素材表</a>
+					<a href="char_calc.html">角色养成计算器</a>
+					<a href="weapon_calc.html">武器养成计算器</a>
+				</div>
+			</nav>
+		</header>
+		
+		<main>
+			<div id="nav_dropdown">
+				<span id="nav_triangle"></span>
+				<span id="nav_day"></span>
+				<div id="nav_inner">
+				</div>
+			</div>
+
+			<div id="trait_section">
+				<h2 id="trait_material_heading">今日素材可升天赋角色</h2>
+
+				<div class="material_section clearfix">
+					<h3 class="region">蒙德</h3>
+					<div class="region_material" id="mondstadt_trait_material"></div>
+				</div>
+
+				<div id="mondstadt_chars">
+				</div>
+
+				<div class="material_section clearfix">
+					<h3 class="region">璃月</h3>
+					<div class="region_material" id="liyue_trait_material"></div>
+				</div>
+
+				<div id="liyue_chars">
+				</div>
+			</div>
+
+			<div id="weapon_section">
+				<h2 id="weapon_material_heading">今日素材可突破武器</h2>
+
+				<div class="material_section clearfix">
+					<h3 class="region">蒙德</h3>
+					<div class="region_material" id="mondstadt_weapon_material"></div>
+				</div>
+
+				<div id="mondstadt_weapons">
+				</div>
+
+				<div class="material_section clearfix">
+					<h3 class="region">璃月</h3>
+					<div class="region_material" id="liyue_weapon_material"></div>
+				</div>
+
+				<div id="liyue_weapons">
+				</div>
+			</div>
+		</main>
+	</body>
+</html>

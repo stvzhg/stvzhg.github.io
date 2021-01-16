@@ -1,0 +1,131 @@
+
+<html>
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-184206995-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-184206995-1');
+		  gtag('config', 'G-2XVV8G01FS');
+		</script>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="css/styles.css" rel="stylesheet" />
+		<link href="css/mobile.css" rel="stylesheet" />
+		<link href="css/pos.css" rel="stylesheet" />
+
+		<title>角色养成计算器</title>
+
+		<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="manifest" href="site.webmanifest">
+
+		<script src="js/jquery.js"></script>
+		<script src="js/data.js"></script>
+		<script src="js/pos.js"></script>
+		<script src="js/char_calc.js"></script>
+	</head>
+	
+	<body>
+		<header>
+			<h1 id="char_calc_logo">角色养成计算器</h1>
+
+			<button id="nav_burger">Nav</button>
+
+			<nav>
+				<div id="nav_slide_links">
+					<a href="index.html">今日素材表</a>
+					<a href="char_calc.html">角色养成计算器</a>
+					<a href="weapon_calc.html">武器养成计算器</a>
+				</div>
+			</nav>
+		</header>
+		
+		<main>
+			<div id="character_calculator_section">
+				<h3 class="subheading">选择角色和等级</h3>
+
+				<div id="char_calc_leveling_section" class="clearfix">
+					<div id="char_calc_char_selector" data-char="">
+						<div id="char_calc_char_selector_inner">
+							<span id="selector_plus">+</span>
+						</div>
+					</div>
+
+					<div id="character_selection_popup">
+						<div id="character_selection_popup_inner">
+							<div id="char_selection_fav_section">
+								<div id="char_selection_fav_group">
+									<a id="char_selection_expander">已收藏角色 <i class="expanded"></i></a>
+									<div id="char_selection_fav_list" class="clearfix show">
+									</div>
+								</div>
+							</div>
+
+							<div id="char_selection_element_tabs">
+								<a class="char_selection_element_tab selected" data-element="火">火</a>
+								<a class="char_selection_element_tab" data-element="风">风</a>
+								<a class="char_selection_element_tab" data-element="岩">岩</a>
+								<a class="char_selection_element_tab" data-element="雷">雷</a>
+								<a class="char_selection_element_tab" data-element="水">水</a>
+								<a class="char_selection_element_tab" data-element="冰">冰</a>
+							</div>
+
+							<div id="char_selection_element_list" class="clearfix">
+							</div>
+						</div>
+					</div>
+
+					<div class="range_selector" id="char_level_selector">
+						<div class="number_selector lower_range" id="char_lower_level">
+							<i class="number_selector_triangle"></i>
+							<span class="number_val" data-level="1">1</span>
+							<div class="number_list">
+								<div class="number_list_options">
+								</div>
+							</div>
+						</div>
+
+						<span class="range_selector_connector">至</span>
+
+						<div class="number_selector higher_range" id="char_higher_level">
+							<i class="number_selector_triangle"></i>
+							<span class="number_val" data-level="90">90</span>
+							<div class="number_list">
+								<div class="number_list_options">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="char_level_calc_buttons">
+				<button id="char_level_calc_btn">计算结果</button>
+				<!-- <button id="char_level_clear_selection_btn">清空选择</button> -->
+			</div>
+
+			<div id="needed_materials">
+				<div id="needed_materials_inner">
+					<h4>你还需要这些</h4>
+					<div id="needed_materials_section" class="clearfix">
+						<div id="needed_xp"><i></i> 角色经验：<span></span></div>
+						<div id="needed_books" class="clearfix">
+						</div>
+						<div id="needed_mora"><i></i> 摩拉：<span></span></div>
+						<div id="needed_mats">
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+
+		<div id="overlay">
+		</div>
+	</body>
+</html>
