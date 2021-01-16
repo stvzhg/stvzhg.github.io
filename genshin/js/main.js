@@ -248,11 +248,11 @@ function update_material_heading(day){
 
 function get_today(){
 	var date = new Date();
-	var day = date.getDay();
-	var hour = date.getHours();
+	var day = date.getUTCDay();
+	var hour = date.getUTCHours();
 
-	if (hour < 4){
-		day = (day + 6) % 7;
+	if (hour > 20){
+		day = (day + 1) % 7;
 	}
 
 	return day;
