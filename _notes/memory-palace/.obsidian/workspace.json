@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "7263010cccbb358f",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d6b2245bc148a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c43e9d5d66f206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Recipe/番茄炒蛋.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5c8c853395be17f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb6d635e7cabea7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2485b725f022464f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cb1cef79d5cbbd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "641db555abb25f2d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b9632a524c26f41",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d44777e10844306",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891aeeb820b90279",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Life/Recipe/番茄炒蛋.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c7a11ea631ff06d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Life/Recipe/番茄炒蛋.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60cfc1c1d62b63f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "309a8763e17ef0cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Life/Recipe/番茄炒蛋.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45c43e9d5d66f206",
+  "lastOpenFiles": [
+    "Life/Recipe/番茄炒蛋.md",
+    "Life/Photography",
+    "Life/Movie",
+    "Life/Music",
+    "Life/Literature",
+    "Tech/Untitled",
+    "Tech/Ops",
+    "Tech/Software",
+    "Tech/Programming language",
+    "Tech/OS/Mac",
+    "Tech/OS/Windows"
+  ]
+}
