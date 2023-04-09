@@ -86,8 +86,8 @@ defaults:
   - scope:
       path: "_notes/*"
     values:
-      layout: "note"
-
+      layout: Post
+      content-type: notes
 
 # Exclude from processing.
 # The following items will not be processed, by default.
