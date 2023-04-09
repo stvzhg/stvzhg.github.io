@@ -84,18 +84,13 @@ sass:
 
 defaults:
   - scope:
-      path: ""
-      type: posts
+      path: "**/*"
     values:
-      layout: Post
-      permalink: /post/:title
-      content-type: post
+      layout: "default"
   - scope:
-      path: ""
-      type: notes
+      path: "_notes/**/*.md"
     values:
-      layout: Post
-      content-type: notes
+      layout: "note"
 
 
 # Exclude from processing.
