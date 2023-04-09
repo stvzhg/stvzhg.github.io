@@ -84,11 +84,7 @@ sass:
 
 defaults:
   - scope:
-      path: "**/*"
-    values:
-      layout: "default"
-  - scope:
-      path: "_notes/**/*.md"
+      path: "_notes/*"
     values:
       layout: "note"
 
