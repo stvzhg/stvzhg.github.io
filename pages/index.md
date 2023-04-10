@@ -4,5 +4,7 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: Mind Palace
 ---
+
+Placeholder homepage [[notes]]
