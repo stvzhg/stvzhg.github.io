@@ -82,6 +82,7 @@
 
                 var index = lunr(function () {
                     this.ref('id');
+                    this.use(lunr.multiLanguage('en', 'zh'));
                     this.field('title', { boost: 200 });
                     this.field('content', { boost: 2 });
                     this.field('url');
