@@ -1,19 +1,19 @@
 
 /*
-Based on https://github.com/jwarby/jekyll-pygments-themes ; Theme Fruity.
+From https://ethanschoonover.com/solarized/#usage-development
 Added variables to asssure all colors works with dark and light theme (partially it does)
 Some color variables are from style.css
 */
 
 html {
-    --highlight-color-orange: #fb660a;
-    --highlight-color-green: #008800;
-    --highlight-color-red: #ff0007;
-    --highlight-color-pink: #ff0086;
-    --highlight-color-grey: #444444;
+    --highlight-color-orange: #cb4b16;
+    --highlight-color-green: #859900;
+    --highlight-color-red: #dc322f;
+    --highlight-color-pink: #d33682;
+    --highlight-color-grey: #93a1a1;
     --highlight-color-khaki: #817816;
-    --highlight-color-comment-bg: #0f140f;
-    --highlight-color-whitespace: #888888;
+    --highlight-color-comment-bg: #002b36;
+    --highlight-color-whitespace: #eee8d5;
 }
 
 .highlight pre { background-color: var(--color-border-light); }
