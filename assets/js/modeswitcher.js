@@ -5,8 +5,8 @@ Creative Commons Attribution 4.0 International License
 */
 
 let theme = sessionStorage.getItem('theme');
-const isDarkMode = () => 
-  window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+const isDarkMode = () =>
+	window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 
 
 const iconSun = "/assets/img/sun.svg";
@@ -23,7 +23,7 @@ function modeSwitcher() {
 		document.documentElement.setAttribute('data-theme', 'light');
 		sessionStorage.setItem('theme', 'light');
 		changeIconImgSrc(iconSun);
-	} else  {
+	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		sessionStorage.setItem('theme', 'dark');
 		changeIconImgSrc(iconMoon);
