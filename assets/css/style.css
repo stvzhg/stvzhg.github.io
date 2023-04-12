@@ -1,7 +1,5 @@
---- 
-layout: Stylesheet 
---- 
-@import "fruity.css";
+/* layout: Stylesheet */
+ @import "fruity.css";
 
 
 html,
@@ -205,10 +203,6 @@ main {
     justify-content: flex-end;
 }
 
-@media screen and (min-width: 768px) {
-    .buttons.for-back-home:not(:last-child) {}
-}
-
 /* 05. Text Styles */
 
 .meta-title {
@@ -225,7 +219,7 @@ main {
 }
 
 .meta-title h5 {
-    padding:0;
+    padding: 0;
 }
 
 .centre-title {
@@ -324,7 +318,8 @@ ul ul {
     color: var(--color-text-link);
 }
 
-.related-group h6, .notelist-feed h6 {
+.related-group h6,
+.notelist-feed h6 {
     padding: 0.4rem 0 !important;
 }
 
@@ -972,8 +967,6 @@ hr {
     font-size: 13px;
 }
 
-.content {}
-
 .content a {
     color: var(--color-text-link);
     text-decoration: none;
@@ -1583,8 +1576,7 @@ a[href^="http"] {
     padding: 5% 10%;
 }
 
-@media screen and (max-width:320px)
-{
+@media screen and (max-width:320px) {
     .home-intro {
         padding: 0;
     }
@@ -1593,6 +1585,3 @@ a[href^="http"] {
         padding-top: 2rem;
     }
 }
-
-
-
