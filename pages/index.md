@@ -7,4 +7,4 @@ permalink: /
 title: Mind Palace
 ---
 
-Placeholder homepage [[notes]]
+Placeholder homepage [notes](/notes)
