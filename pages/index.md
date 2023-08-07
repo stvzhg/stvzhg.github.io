@@ -6,5 +6,4 @@ layout: Post
 permalink: /
 title: Mind Palace
 ---
-
-Placeholder homepage [notes](/notes)
+Mouse.click() -> {[notes;](/notes)}
